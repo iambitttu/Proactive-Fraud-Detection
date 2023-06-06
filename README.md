@@ -130,4 +130,4 @@ Determine the effectiveness of the implemented prevention measures.
 - Engage external experts or consultants to perform independent assessments.
 - Identify areas for improvement and implement necessary changes based on review findings.
 
-By following this , the financial company can execute a comprehensive process for proactive fraud detection, develop an effective model, interpret the results, and implement preventive measures to safeguard against fraudulent activities.
+By following this, the financial company can execute a comprehensive process for proactive fraud detection, develop an effective model, interpret the results, and implement preventive measures to safeguard against fraudulent activities.
